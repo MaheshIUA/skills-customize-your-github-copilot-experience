@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "problem-solving-lists-functions",
+      "title": "Problem Solving with Lists and Functions",
+      "description": "Develop algorithmic thinking by solving list-based challenges with reusable Python functions.",
+      "path": "assignments/problem-solving-lists-functions",
+      "dueDate": "2026-06-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
